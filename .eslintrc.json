@@ -1,0 +1,6 @@
+{
+  "extends": "@meteorjs/eslint-config-meteor",
+    "env": {
+        "meteor": true
+    }
+}
